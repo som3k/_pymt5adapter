@@ -19,7 +19,7 @@ setup(
     url='https://github.com/nicholishen/pymt5adapter',
     license='MIT',
     packages=find_packages(exclude=('tests', 'docs')),
-    install_requires=['MetaTrader5==5.0.33'],
+    install_requires=['MetaTrader5==5.0.37'],
     setup_requires=['wheel'],
     python_requires='>=3.6',
 )
